@@ -1,0 +1,71 @@
+* {
+	background-color: whitesmoke;
+	margin: 4px;
+}
+
+.perfil
+{
+	display: flex;
+}
+
+.perfildescripcion
+{
+	padding: 10px;
+}
+
+.mainheader
+{
+	border: 1px solid;
+	display: flex;
+	background-color: green;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+
+.header1{
+	padding: 20px;
+	width: 65%;
+}
+
+.header2{
+	
+}
+
+.mainmain 
+{
+	margin-left: 50px;
+	margin-right: 50px;
+
+	display: flex;
+	background-color: green;
+}
+
+.body1
+{
+	padding: 25px;
+	border: 1px solid;
+	width: 70%;
+	border-right: none;
+}
+
+.body2	
+{
+	padding: 25px;
+	border: 1px solid;
+
+}
+
+
+.pie-de-pagina
+{
+	border: 1px solid;
+	display: flex;
+	margin:  0 50px;
+}
+
+a
+{
+	font-size: 18px;
+	color: black;
+}
